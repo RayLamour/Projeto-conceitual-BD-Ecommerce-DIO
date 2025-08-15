@@ -40,19 +40,7 @@ O modelo foi dividido em entidades principais:
 ---
 
 ## Modelo Conceitual (ERD)
-O diagrama foi criado no [dbdiagram.io](https://dbdiagram.io) e exportado como imagem:
-
- *Arquivo*: `diagram.png`  
-![Diagrama ERD](diagram.png)
-
----
-
-## Modelo Relacional (MySQL)
-O script SQL (`schema.sql`) contém:
-- Criação de todas as tabelas.
-- Definição de **chaves primárias** e **estrangeiras**.
-- **Constraints** para validação de PF/PJ.
-- Relacionamentos N:N e 1:N implementados corretamente.
+O diagrama foi criado no [dbdiagram.io](https://dbdiagram.io) e exportado como imagem
 
 ---
 
