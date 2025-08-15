@@ -63,8 +63,4 @@ O script SQL (`schema.sql`) contém:
 
 ---
 
-## Como Utilizar
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/usuario/nome-repositorio.git
    
